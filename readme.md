@@ -20,7 +20,6 @@ Người mua:
 - Quản lí người dùng
 
 
-![Image](https://github.com/user-attachments/assets/1d18ed8f-9054-4c86-996e-2ed18d9ca38f)
  # Ảnh Demo
  
  ## Trang chủ
