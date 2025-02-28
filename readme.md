@@ -1,31 +1,24 @@
-# Thành viên
-Nguyễn Thế Anh - 21012858
+# Giới Thiệu dự án
+Trong bối cảnh kinh doanh ngày càng cạnh tranh, các doanh nghiệp nhận thấy sự cần thiết phải chuyển đổi số và mở rộng kênh bán hàng sang trực tuyến để tồn tại và phát triển.  Website thương mại điện tử trở thành cửa hàng trực tuyến 24/7,  giúp doanh nghiệp tiếp cận lượng lớn khách hàng, vượt qua giới hạn địa lý và thời gian, đồng thời tối ưu hóa quy trình bán hàng và quản lý.
 
-Bùi Trung Đức - 21012492
-
+Hệ thống website thương mại điện tử sẽ là nền tảng trưng bày và bán các sản phẩm/dịch vụ của doanh nghiệp trực tuyến, cung cấp trải nghiệm mua sắm thuận tiện, nhanh chóng và an toàn cho khách hàng.  Website cần được thiết kế chuyên nghiệp, hấp dẫn, dễ sử dụng trên cả máy tính và thiết bị di động,  đồng thời tích hợp đầy đủ các chức năng cần thiết cho hoạt động bán hàng trực tuyến.
 # Mục tiêu dự án
 - Giao diện cần phải thân thiện với máy tính, dễ sử dụng, bắt mắt và hướng đến thị hiếu cũng như cảm nhận của khách hàng. Bên cạnh đó, website cần phải có tốc độ xử lý nhanh, chính xác, hiệu quả và tiện lợi cho cả người mua cũng như người bán - chủ website.
 - Website cần có các chức năng cơ bản của các trang thương mại điện tử như: Người mua có thể đăng kí và đăng nhập vào hệ thống để quản lý tài khoản, giỏ hàng, đơn hàng, tương tác với hệ thống như đánh giá, bình luận hay gửi tin nhắn. Bên cạnh sử phát triển của mạng xã hội như Google hay Facebook thì việc tích hợp vào hệ thống là một lợi thế của website.. Về phía cửa hàng, người quản trị website có thể quản lý tất cả nội dung của trang web như là tạo các áp phích quảng cáo cho từng sản phẩm, tạo bài viết thu hút khách hàng, quản lý sản phẩm trong kho, quản lý đơn hàng, thông kê doanh số bán hàng...
 - Phải hướng đến khách hàng, do vậy sử dụng các yếu tố tương tác trong trang web là một điều quan trọng, cần sử dụng các hình ảnh mô phỏng sản phẩm đẹp và chất lượng hay những đoạn video hoặc các phương tiện truyền thông xã hội là một trong những yếu tố tương tác phổ biến nhất cần phải nghĩ đến khi thiết kế website bán hàng.
 
-# Sơ đồ chức năng
-## Đăng nhập
+# Các chức năng chính 
 
-![Image](https://github.com/user-attachments/assets/fbd0504f-7847-48a0-8bb5-0dc4519c47d3)
-
-## Đăng kí
-
-![Image](https://github.com/user-attachments/assets/6eeaefa0-9cb3-4f45-97da-c217bc39c03b)
-
-## Quản lý giỏ hàng
-
-![Image](https://github.com/user-attachments/assets/635b6b6d-c114-48d7-abf8-d578f8b722c6)
-
-## Quản lý sản phẩm
-
-![Image](https://github.com/user-attachments/assets/c906802c-526f-4120-8bbe-62343c0627de)
-
-## Quản lý đơn hàng
+•	Người mua: 
+  o	Đăng ký/Đăng nhập tài khoản.
+  o	Quản lý tài khoản, giỏ hàng, đơn hàng.
+  o	Đặt sản phẩm 
+•	Người quản trị (Chủ cửa hàng): 
+  o	Quản lý toàn bộ nội dung website.
+  o	Tạo banner quảng cáo sản phẩm.
+  o	Đăng bài viết thu hút khách hàng.
+  o	Quản lý sản phẩm (kho hàng).
+  o	Quản lý đơn hàng.
 
 ![Image](https://github.com/user-attachments/assets/1d18ed8f-9054-4c86-996e-2ed18d9ca38f)
  # Ảnh Demo
