@@ -8,17 +8,16 @@ Hệ thống website thương mại điện tử sẽ là nền tảng trưng b�
 - Phải hướng đến khách hàng, do vậy sử dụng các yếu tố tương tác trong trang web là một điều quan trọng, cần sử dụng các hình ảnh mô phỏng sản phẩm đẹp và chất lượng hay những đoạn video hoặc các phương tiện truyền thông xã hội là một trong những yếu tố tương tác phổ biến nhất cần phải nghĩ đến khi thiết kế website bán hàng.
 
 # Các chức năng chính 
+Người quản trị (Chủ cửa hàng): 
+- Đăng ký/Đăng nhập tài khoản.
+- Quản lý tài khoản, giỏ hàng, đơn hàng.
+- Xem sản phẩm, Đặt sản phẩm
+Người mua:
+- Quản lý toàn bộ nội dung tin tức, quảng cáo website.
+- Quản lý sản phẩm (kho hàng).
+- Quản lý đơn hàng.
+- Quản lí người dùng
 
-•	Người mua: 
-  o	Đăng ký/Đăng nhập tài khoản.
-  o	Quản lý tài khoản, giỏ hàng, đơn hàng.
-  o	Đặt sản phẩm 
-•	Người quản trị (Chủ cửa hàng): 
-  o	Quản lý toàn bộ nội dung website.
-  o	Tạo banner quảng cáo sản phẩm.
-  o	Đăng bài viết thu hút khách hàng.
-  o	Quản lý sản phẩm (kho hàng).
-  o	Quản lý đơn hàng.
 
 ![Image](https://github.com/user-attachments/assets/1d18ed8f-9054-4c86-996e-2ed18d9ca38f)
  # Ảnh Demo
