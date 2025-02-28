@@ -2,6 +2,12 @@
 Nguyễn Thế Anh - 21012858
 
 Bùi Trung Đức - 21012492
+
+# Mục tiêu dự án
+- Giao diện cần phải thân thiện với máy tính, dễ sử dụng, bắt mắt và hướng đến thị hiếu cũng như cảm nhận của khách hàng. Bên cạnh đó, website cần phải có tốc độ xử lý nhanh, chính xác, hiệu quả và tiện lợi cho cả người mua cũng như người bán - chủ website.
+- Website cần có các chức năng cơ bản của các trang thương mại điện tử như: Người mua có thể đăng kí và đăng nhập vào hệ thống để quản lý tài khoản, giỏ hàng, đơn hàng, tương tác với hệ thống như đánh giá, bình luận hay gửi tin nhắn. Bên cạnh sử phát triển của mạng xã hội như Google hay Facebook thì việc tích hợp vào hệ thống là một lợi thế của website.. Về phía cửa hàng, người quản trị website có thể quản lý tất cả nội dung của trang web như là tạo các áp phích quảng cáo cho từng sản phẩm, tạo bài viết thu hút khách hàng, quản lý sản phẩm trong kho, quản lý đơn hàng, thông kê doanh số bán hàng...
+- Phải hướng đến khách hàng, do vậy sử dụng các yếu tố tương tác trong trang web là một điều quan trọng, cần sử dụng các hình ảnh mô phỏng sản phẩm đẹp và chất lượng hay những đoạn video hoặc các phương tiện truyền thông xã hội là một trong những yếu tố tương tác phổ biến nhất cần phải nghĩ đến khi thiết kế website bán hàng.
+
 # Sơ đồ chức năng
 ## Đăng nhập
 
