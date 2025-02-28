@@ -12,6 +12,7 @@ Người quản trị (Chủ cửa hàng):
 - Đăng ký/Đăng nhập tài khoản.
 - Quản lý tài khoản, giỏ hàng, đơn hàng.
 - Xem sản phẩm, Đặt sản phẩm
+  
 Người mua:
 - Quản lý toàn bộ nội dung tin tức, quảng cáo website.
 - Quản lý sản phẩm (kho hàng).
