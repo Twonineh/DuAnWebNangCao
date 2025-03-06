@@ -22,18 +22,3 @@ Người mua:
 
  # Ảnh Demo
  
- ## Trang chủ
-
-![Image](https://github.com/user-attachments/assets/10c9c58a-b077-4746-abb7-c4e08fc1ef64)
-
-## Quản lý sản phẩm
-
-![Image](https://github.com/user-attachments/assets/bbd6655b-6f1d-4376-8871-2e1f461b27b8)
-
-## Giỏ hàng
-
-![Image](https://github.com/user-attachments/assets/cfdd88e5-0cf0-4c10-8cc5-fd0ae433fb4f)
-
-## Mua và thanh toán
-
-![Image](https://github.com/user-attachments/assets/ae7d97f8-4379-4cfe-a68e-69b3f8827cc1)
