@@ -34,6 +34,17 @@ Mô tả chức năng : Chức năng này cho phép quản trị viên quản l�
 
 ![image](https://github.com/user-attachments/assets/4f9a830b-0952-470a-be50-e59191a3716f)
 
+- Chức năng giỏ hang
+
+Mô tả chức năng :  Chức năng này cho phép người dùng thêm sản phẩm vào giỏ hàng để tiếp tục lựa chọn các sản phẩm khác. Người dùng có thể quản lý giỏ hàng bằng cách thay đổi số lượng hoặc xóa sản phẩm. Giỏ hàng sẽ bị xóa khi người dùng tắt trình duyệt. Chức năng này áp dụng cho tất cả người dùng (Guest và User).
+
+![Image](https://github.com/user-attachments/assets/cd214eed-6502-4478-a04d-d40e9b3f659d)
+
+- Chức năng mua hàng và thanh toán
+
+Mô tả chức năng Chức năng này cho phép người dùng thực hiện mua hàng và thanh toán trực tiếp qua kênh thanh toán điện tử. Người dùng có thể mua ngay sản phẩm đang xem hoặc thanh toán các sản phẩm trong giỏ hàng. Hệ thống hỗ trợ hai hình thức thanh toán: thanh toán khi nhận hàng (COD) và thanh toán online, yêu cầu nhập đầy đủ thông tin thanh toán. Chức năng này chỉ áp dụng cho người dùng đã đăng nhập (User).
+
+![Image](https://github.com/user-attachments/assets/902fa13c-8ff4-4b1d-9854-c5b7a937cbe1)
 
 - Chức năng quản lý bài viết
   
@@ -60,6 +71,10 @@ Biểu đồ hoạt động chức năng quản lý sản phẩm
 Biểu đồ hoạt động chức năng quản lý đơn hàng
 
 ![Image](https://github.com/user-attachments/assets/ce6aaf90-0afb-4edb-b32f-042667a1c0e2)
+
+Biểu đồ hoạt động chức năng giỏ hàng
+
+![Image](https://github.com/user-attachments/assets/bd733903-2f47-4ff3-a7a5-5577221b3f2a)
 
   # Diagram
 
