@@ -25,6 +25,9 @@ Người mua:
 
 Mô tả chức năng : Chức năng này cho phép quản trị viên quản lý sản phẩm trong kho hàng, bao gồm thêm sản phẩm mới, chỉnh sửa thông tin sản phẩm và xóa các sản phẩm đã ngừng kinh doanh. Chức năng này chỉ áp dụng cho quản trị viên (Admin).
 
+![image](https://github.com/user-attachments/assets/4f9a830b-0952-470a-be50-e59191a3716f)
+
+
 - Chức năng quản lý bài viết
   
 Mô tả chức năng Chức năng này cho phép quản trị viên quản lý các bài viết trong hệ thống, bao gồm thêm mới, chỉnh sửa và xóa bài viết. Chức năng này chỉ áp dụng cho quản trị viên (Admin).
