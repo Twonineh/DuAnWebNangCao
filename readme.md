@@ -45,11 +45,11 @@ Mô tả chức năng Chức năng này cho phép quản trị viên quản lý 
 
 ![Image](https://github.com/user-attachments/assets/5f3ef4e1-2a15-4e96-81fe-076bc0c06d69)
 
--Biểu đồ hoạt động chức năng quản lý sản phẩm
+-Biểu đồ hoạt động chức năng quản lý đơn hàng
 
 ![Image](https://github.com/user-attachments/assets/b27c2e3f-be00-446d-aa09-bc61af7c6cc1)
 
-Biểu đồ hoạt động chức năng quản lý sản phẩm
+Biểu đồ hoạt động chức năng quản lý tìm kiếm
 
 ![Image](https://github.com/user-attachments/assets/4c088e43-2258-458d-bdfb-622f3f08d288)
 
