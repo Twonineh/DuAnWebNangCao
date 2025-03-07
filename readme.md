@@ -19,6 +19,9 @@ Người mua:
 - Quản lý đơn hàng.
 - Quản lí người dùng
 
+•	Guest: Đây là những người truy cập vào website nhưng chưa đăng nhập. Mục đích chính của hệ thống đối với nhóm tác nhân này là giới thiệu và quảng bá nội dung. Vì vậy, Guest chỉ có thể sử dụng các chức năng cơ bản như: tìm kiếm, xem sản phẩm, bài viết, chính sách, đánh giá – bình luận của người dùng khác, các chương trình khuyến mãi, cũng như nhận hỗ trợ trực tuyến từ cửa hàng thông qua Messenger.
+•	User: Đây là những người dùng đã đăng nhập vào hệ thống và cũng là nhóm đối tượng chính mà hệ thống hướng đến. Ngoài các chức năng mà Guest có thể sử dụng, User còn được cung cấp nhiều quyền hạn nâng cao như: quản lý tài khoản cá nhân, đặt hàng, đánh giá – bình luận về bài viết hoặc sản phẩm. Bên cạnh đó, họ còn nhận được thông báo từ hệ thống về tình trạng đơn hàng, các chương trình khuyến mãi mới nhất và các chính sách tri ân khách hàng.
+•	Admin: Đây là tác nhân giữ vai trò quan trọng nhất trong hệ thống, chịu trách nhiệm vận hành, quản lý và giám sát toàn bộ hoạt động của website. Admin có quyền thực hiện tất cả các chức năng quản trị như: quản lý kho hàng, bài viết, tài khoản người dùng, xử lý đơn hàng, thống kê doanh thu, cũng như hỗ trợ và phản hồi các yêu cầu từ khách hàng.
 
  # Ảnh Demo
  
