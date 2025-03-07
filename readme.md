@@ -21,6 +21,13 @@ Người mua:
 
 
  # Phân tích một số chức năng
+- Chức Năng Đăng Ký
+Mô tả chức năng: Chức năng này cho phép người dùng tự do đăng ký tài khoản để truy cập hệ thống. Khi khách hàng hoàn tất biểu mẫu đăng ký, hệ thống sẽ gửi một email xác nhận đến địa chỉ đã đăng ký để kích hoạt tài khoản.. Chức năng này chỉ áp dụng cho người dùng chưa có tài khoản (Guest).
+![Image](https://github.com/user-attachments/assets/350fce2f-9460-4b75-8935-f95eb0cd8f87)
+- Chức Năng Đăng Nhập
+Mô tả chức năng: Chức năng này cho phép người dùng có tài khoản đã kích hoạt hoặc quản trị viên đăng nhập vào hệ thống. Khi người dùng cung cấp thông tin đăng nhập đầy đủ và chính xác, hệ thống sẽ xác minh và tự động chuyển hướng đến trang chủ đối với tài khoản khách hàng hoặc trang quản trị đối với tài khoản quản trị viên
+![Image](https://github.com/user-attachments/assets/2afbd658-254f-40ff-9ff7-67b3e35ee89e)
+
 - Chức năng quản lý sản phẩm
 
 Mô tả chức năng : Chức năng này cho phép quản trị viên quản lý sản phẩm trong kho hàng, bao gồm thêm sản phẩm mới, chỉnh sửa thông tin sản phẩm và xóa các sản phẩm đã ngừng kinh doanh. Chức năng này chỉ áp dụng cho quản trị viên (Admin).
@@ -32,4 +39,24 @@ Mô tả chức năng : Chức năng này cho phép quản trị viên quản l�
   
 Mô tả chức năng Chức năng này cho phép quản trị viên quản lý các bài viết trong hệ thống, bao gồm thêm mới, chỉnh sửa và xóa bài viết. Chức năng này chỉ áp dụng cho quản trị viên (Admin).
 ![Image](https://github.com/user-attachments/assets/0e20875f-48b5-415e-8440-d7bdb62d0f40)
- 
+
+  # Biểu đồ hoạt động
+-Biểu đồ hoạt động chức năng đăng nhập
+
+![Image](https://github.com/user-attachments/assets/5f3ef4e1-2a15-4e96-81fe-076bc0c06d69)
+
+-Biểu đồ hoạt động chức năng quản lý sản phẩm
+
+![Image](https://github.com/user-attachments/assets/b27c2e3f-be00-446d-aa09-bc61af7c6cc1)
+
+Biểu đồ hoạt động chức năng quản lý sản phẩm
+
+![Image](https://github.com/user-attachments/assets/4c088e43-2258-458d-bdfb-622f3f08d288)
+
+Biểu đồ hoạt động chức năng quản lý sản phẩm
+
+![Image](https://github.com/user-attachments/assets/81369d17-510d-4292-93af-71472e94b9db)
+
+Biểu đồ hoạt động chức năng quản lý đơn hàng
+
+![Image](https://github.com/user-attachments/assets/ce6aaf90-0afb-4edb-b32f-042667a1c0e2)
