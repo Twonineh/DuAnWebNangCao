@@ -60,3 +60,8 @@ Biểu đồ hoạt động chức năng quản lý sản phẩm
 Biểu đồ hoạt động chức năng quản lý đơn hàng
 
 ![Image](https://github.com/user-attachments/assets/ce6aaf90-0afb-4edb-b32f-042667a1c0e2)
+
+  # Diagram
+
+![image](https://github.com/user-attachments/assets/0cd820ea-ad9f-400d-9ba7-e5eefd4326c7)
+
