@@ -28,5 +28,5 @@ Mô tả chức năng : Chức năng này cho phép quản trị viên quản l�
 - Chức năng quản lý bài viết
   
 Mô tả chức năng Chức năng này cho phép quản trị viên quản lý các bài viết trong hệ thống, bao gồm thêm mới, chỉnh sửa và xóa bài viết. Chức năng này chỉ áp dụng cho quản trị viên (Admin).
-
+![Image](https://github.com/user-attachments/assets/0e20875f-48b5-415e-8440-d7bdb62d0f40)
  
